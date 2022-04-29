@@ -1,5 +1,5 @@
 <h1 align="center">Hey 🤟, I'm Gabrielle Emanoela</h1>
-<h3 align="center">I'm just a 21 year old girl, who migrated from the accounting area to the development area.</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
