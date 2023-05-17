@@ -1,4 +1,4 @@
-<h1 align="center">Hey 🤟, I'm Gabrielle Emanoela</h1>
+<h1 align="center">Hey 🤟,My Name is Gabrielle Emanoela</h1>
 
 
 <h3 align="left">Connect with me:</h3>
